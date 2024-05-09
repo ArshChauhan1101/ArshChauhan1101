@@ -1,9 +1,9 @@
 <h1 align="center">Hola! My Name is Arsh Chauhan</h1>
 <h3 align="center">I am a Beginner in Computer Science. I love to Make Projects. I am Learning Machine Learning/AI</h3>
 
-- 🔭 I’m currently working on **Core Sounder**
+- 🔭 I’m currently working at VAR Lab as AI Researcher 
 
-- 🌱 I’m currently learning Machine Learning/AI **python**
+- 🌱 I’m currently learning Machine Learning/AI 
 
 - 👯 I’m looking to collaborate on **BookGram**
 
