@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning Machine Learning/AI 
 
-- 👯 I’m looking to collaborate on **BookGram**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ArshChauhan1101](https://github.com/ArshChauhan1101)
 
 - 📫 How to reach me **https://www.linkedin.com/in/arshchau/**
