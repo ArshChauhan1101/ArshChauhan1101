@@ -1,9 +1,9 @@
 <h1 align="center">Hola! My Name is Arsh Chauhan</h1>
 <h3 align="center">I am a Beginner in Computer Science. I love to Make Projects. I am Learning Machine Learning/AI</h3>
 
-- 🔭 I’m currently working at VAR Lab as **AI Researcher**
+- 🔭 I’m currently working at SMART Center as **Software Developer**
 
-- 🌍 Also Working at CSI as **Web Assistant**
+- 🌍 Previously worked at - Equitable, VAR Lab, CVRI, CSI, MyPip, Intern Insider, Conestoga College.  
 
 - 🌱 I’m currently learning Machine Learning/AI 
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/arshchau/**
 
-- ⚡ Fun fact **I have a bad humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
